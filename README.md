@@ -1,2 +1,2 @@
-# kana-flashcards
-A kana flashcards game built on jQuery
+# Kana Flashcards
+A Japanese kana flashcards game (both in Hiragana and Katakana) built on jQuery.
